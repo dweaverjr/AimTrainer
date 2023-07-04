@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "aimtrainer"
+version = "0.1.0"
+description = ""
+authors = ["dweaverjr <80757650+dweaverjr@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
